@@ -1,5 +1,5 @@
 ### Hi there 👋
-welcome to my profile!
+Welcome to my profile!
 <br/>
 I'm a Junior Web developer
 and I'm glad to share with you my repositories and proyects.
