@@ -1,8 +1,10 @@
 ### Hi there 👋
 welcome to my profile!
+<br/>
 I'm a Junior Web developer
 and I'm glad to share with you my repositories and proyects.
-See u and keep coding!
+<br/>
+See u and keep coding!😄
 
 <!--
 **igomez404/Igomez404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
